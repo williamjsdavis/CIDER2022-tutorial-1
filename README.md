@@ -30,7 +30,9 @@ Google Drive -> New -> More -> Google Colaboratory
 
 Check the version with `!python --version`
 
+### Loading notebooks
 
+Download `daisyworld.ipynb` from the `python/` directory.
 
 ### Python resources
 
@@ -38,6 +40,7 @@ Check the version with `!python --version`
 - [Markdown in Google Colab](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 - [Plotting in Google Colab](https://colab.research.google.com/notebooks/charts.ipynb)
 - [Another python tutorial](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 # MATLAB
 
