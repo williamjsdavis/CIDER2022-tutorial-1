@@ -20,11 +20,11 @@ We will be using python in Google Colab notebooks.
 Requirements:
  - Google account
 
+## Getting started
+
 In the tutorial I will go over:
 - Add here...
 - Q&A (throughout)
-
-## Getting started
 
 [Basic features overview of Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
 
@@ -51,12 +51,15 @@ Download `daisyworld.ipynb` from the `python/` directory.
 
 # MATLAB
 
+We will be using MATLAB in the official IDE (interactive development environment).
+
+Requirements:
+ - MATLAB with the free 30 day trial (you should have already downloaded and set up this)
+
 ## Getting started
 
-Everyone should have downloaded MATLAB with the free 30 day trial
-
 In the tutorial I will go over:
-- IDE (interactive development environment)
+- IDE overview
 - Using the command window
 - Using the editor
 - Navigating folders and path
