@@ -70,6 +70,7 @@ In the tutorial I will go over:
 - Documentation
 - Scripts and functions
 - Using non-library code
+   - Download package from `https://github.com/williamjsdavis/secn-PR`
 - Reading/saving data
 - Q&A (throughout)
 
