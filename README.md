@@ -23,7 +23,11 @@ Requirements:
 ## Getting started
 
 In the tutorial I will go over:
-- Add here...
+- Basics of notebooks
+- Running pre-prepared notebooks
+- Reading/saving data
+- Using packages
+- Getting new packages
 - Q&A (throughout)
 
 [Basic features overview of Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
@@ -65,6 +69,8 @@ In the tutorial I will go over:
 - Navigating folders and path
 - Documentation
 - Scripts and functions
+- Using non-library code
+- Reading/saving data
 - Q&A (throughout)
 
 ### MATLAB comprehension
